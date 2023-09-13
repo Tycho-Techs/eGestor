@@ -84,7 +84,7 @@
 <?php
 // Defina as informações de autenticação da Microsoft
 $tenantId = 'f8df289a-8e61-416d-9fb6-87166d8ecbfe'; //Id do ocatario
-$clientId = '4395a53f-bdb0-4251-860e-770cee09f1bc'; //id da apicacao
+$clientId = '31d0ea24-9a57-4202-a338-e03b3a288dcc'; //id da apicacao
 $redirectUri = 'https://app.sweetadm.com.br/egestor/auth.php'; //
 
 
